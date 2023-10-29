@@ -10,3 +10,5 @@
 [desafios-python](https://wiki.python.org.br/EstruturaSequencial)
 
 [basic-sintax-git](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[caracteres especiais](https://www.homehost.com.br/blog/tutoriais/caracteres-especiais-acentos-html/)
