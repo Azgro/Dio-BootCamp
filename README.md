@@ -12,3 +12,5 @@
 [basic-sintax-git](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 [caracteres especiais](https://www.homehost.com.br/blog/tutoriais/caracteres-especiais-acentos-html/)
+
+[Notion](https://www.notion.so/Come-ando-com-o-Notion-1f832bcb51c04101b1004c2ef5450d93)
